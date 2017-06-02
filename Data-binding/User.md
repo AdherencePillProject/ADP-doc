@@ -23,7 +23,19 @@ User has following attributes:
 Test following cases on login page of web, login activity of Android and objects in database.
 
 ### Valid user cases (in database)
-1. 
+| Case   | web | Android |
+|--------|-----|---------|
+|s@s - s |     |         |
+|4@4 - 4 |     |         |
+|d@d - d |     |         |
+|1@1 - 1 |     |         |
+|p@p - p |     |         |
+|s@s - s |     |         |
 
 ### Invalid user cases (not in database)
+
+| Case   | web | Android |
+|--------|-----|---------|
+|s@3 - s |     |         |
+|4@4 - 3 |     |         |
 

@@ -1,4 +1,4 @@
-# Setting Web App Locally
+# Setting Web App Up Locally
 
 1. Change URL setting of WebSide and deploy WebServer on pm2 with port 5000
 

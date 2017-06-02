@@ -1,5 +1,7 @@
 ## Some useful links/commands
 
+### Markdown Mannel
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
 ### Parse-Dashboard command
 parse-dashboard --appId "myAppId" --masterKey myMasterKey --serverURL "http://129.105.36.93:5000/parse/"

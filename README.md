@@ -25,6 +25,10 @@ We have achieved most of functionalities on Android part, while a good amount of
 ## Milestone 1: Correctness of data-binding
 First, we should check the correctness of data-binding across the app. In this section, we focus on verifying the displayed data should be the same, without considering the validation of executions. 
 
+**[User](Data-binding/User.md)**
+- [ ] web/login
+- [ ] Android/login
+- [ ] Database/User
 
 **Doctor-Patient relation**
 - [ ] Doctor/Doctor home
@@ -59,13 +63,6 @@ First, we should check the correctness of data-binding across the app. In this s
 - [ ] Patient/Medcine Cabinet
 - [ ] Android/MedcationFragment
 - [ ] Database/Prescription - Patient - Bottle
-
-
-
-**User**
-- [ ] web/login
-- [ ] Android/login
-- [ ] Database/User
 
 
 **BottleUpdate**
@@ -185,21 +182,8 @@ Third, we will move to optimize UI to improve UX. Following are parts of UI elem
 
 
 ## Future Works
-In the future (probably July), after we finish above basic functionalities, we want to add some new features such as:
+In the future (probably July), after we finish above basic functionalities, we want to add some new features. Generally, we will focus on three directions:
 
-
-Display schedule on Android
-Display patient’s doctor on Android
-Write Junit test classes for activities in Android
-Write unit test classes for services in web_cloud 
-Write unit test classes for controllers and routes in WebSide
-Add setting on Android
-Add setting on web_cloud
-Implement local database in mobile
-Migrating database to AWS
-
-
-Generally, we will focus on three directions:
 1. **Database migration and improvement**
 - [ ] migrate to AWS
 - [ ] In database, store dosage and prescription name separately, update patient prescriptions page (and other relevant pages?) accordingly
