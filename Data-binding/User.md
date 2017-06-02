@@ -22,20 +22,19 @@ User has following attributes:
 ### Verification setting
 Test following cases on login page of web, login activity of Android and objects in database.
 
-### Valid user cases (in database)
+### test cases for valid users
 | Case   | web | Android |
 |--------|-----|---------|
-|s@s - s |     |         |
-|4@4 - 4 |     |         |
-|d@d - d |     |         |
-|1@1 - 1 |     |         |
-|p@p - p |     |         |
-|s@s - s |     |         |
+|s@s - s |   x |    x    |
+|4@4 - 4 |   x |    x    |
+|d@d - d |   x |    x    |
+|1@1 - 1 |   x |    x    |
+|p@p - p |   x |    x    |
 
-### Invalid user cases (not in database)
+### test cases for invalid users
 
 | Case   | web | Android |
 |--------|-----|---------|
-|s@3 - s |     |         |
-|4@4 - 3 |     |         |
+|s@3 - s |   x |    x    |
+|4@4 - 3 |   x |    x    |
 

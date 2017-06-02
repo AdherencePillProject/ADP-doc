@@ -26,9 +26,9 @@ We have achieved most of functionalities on Android part, while a good amount of
 First, we should check the correctness of data-binding across the app. In this section, we focus on verifying the displayed data should be the same, without considering the validation of executions. 
 
 **[User](Data-binding/User.md)**
-- [ ] web/login
-- [ ] Android/login
-- [ ] Database/User
+- [x] web/login
+- [x] Android/login
+- [x] Database/User
 
 **Doctor-Patient relation**
 - [ ] Doctor/Doctor home
