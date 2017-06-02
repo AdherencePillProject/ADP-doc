@@ -38,3 +38,7 @@ Test following cases on login page of web, login activity of Android and objects
 |s@3 - s |   x |    x    |
 |4@4 - 3 |   x |    x    |
 
+
+## Remaining Questions
+1. The login system on Android allows doctor's account (d@d), too. We may need to restrict the user type as patient only. To achieve this, we have to make use of user's PatientPointer attribute to verfy its type.
+
