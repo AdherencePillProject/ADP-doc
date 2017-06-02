@@ -137,7 +137,7 @@ Second, we need to check the validation of app’s service. This section should 
 - [ ] Android/TodayFragment UI
 
 
-## UI Optimization
+## Milestone 3: UI Optimization
 Third, we will move to optimize UI to improve UX. Following are parts of UI elements we are supposed to add. We may need to decide to add more UI elements in two weeks.
 
 
