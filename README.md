@@ -1,10 +1,25 @@
-﻿# Roadmap
+﻿# How To Run
+## Setting Up WebSide server locally
+See [README](https://github.com/AdherencePillProject/WebSide/blob/master/AdherencePillProject/README.MD) file of WebSide
+
+## Setting Up web_cloud app locally
+See [README](https://github.com/AdherencePillProject/web_cloud/blob/master/README.md) file of web_cloud
+
+## Setting Up Android app
+1. Install [Android Studio](https://developer.android.com/studio/index.html)
+2. Download the [Android project](https://github.com/AdherencePillProject/ADP_Android)
+3. See README file of Android app
 
 
+# Roadmap
+
+## Introduction
 We have achieved most of functionalities on Android part, while a good amount of jobs on website are not work now, which is the main direction that we want to work forwards. In the following weeks, we hope we can achieve the following milestones:
 1. **Make sure the correctness of data-binding**
 2. **Ensure the validation of key services/executions**
 3. **Optimize UI to improve user experience**
+
+
 
 
 ## Milestone 1: Correctness of data-binding
