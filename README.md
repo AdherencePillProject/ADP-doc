@@ -59,10 +59,10 @@ First, we should check the correctness of data-binding across the app. In this s
 - [ ] Database/Prescription
 
 
-**Patient’s Medicine**
-- [ ] Patient/Medcine Cabinet
-- [ ] Android/MedcationFragment
-- [ ] Database/Prescription - Patient - Bottle
+**[Patient’s Medicine](Data-binding/Patient_Medicine.md)**
+- [x] Patient/Medcine Cabinet
+- [x] Android/MedcationFragment
+- [x] Database/Prescription - Patient - Bottle
 
 
 **BottleUpdate**
